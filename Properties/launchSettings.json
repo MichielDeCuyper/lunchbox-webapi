@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "lunchbox_webapi": {
+    "Lunchbox": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
